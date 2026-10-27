@@ -17,7 +17,7 @@ logging.basicConfig(
 logger = logging.getLogger("lemvest")
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
-CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/+O_ftPKkrKKxhNzBk")
+CHANNEL_URL = os.environ.get("CHANNEL_URL", "https://t.me/+_uVZZCHw7U1lMGZk")
 
 DISCLAIMER = (
     "⚠️ Educational content only, not financial advice. "
